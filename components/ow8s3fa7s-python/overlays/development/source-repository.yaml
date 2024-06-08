@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ow8s3fa7s-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ow8s3fa7s-python
